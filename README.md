@@ -3,6 +3,7 @@
 - 🏡 个人网页：<a href="https://sylviabien.github.io" target="_blank">https://sylviabien.github.io/</a>    
 - 💬 邮箱：[sylviabien@qq.com](sylviabien@qq.com)  
 - 🌱 牛客网：[sylviabien](https://www.nowcoder.com/users/548473347)
+- ⭐️ 国内Gitee：[sylviabien](https://gitee.com/sylviabien)
 
 
 ### ⚡ Technologies  
